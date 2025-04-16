@@ -9,7 +9,7 @@
 
 ## My Favourite Projects
 
-- [Remote Solar Monitoring]()
+- [Remote Solar Monitoring](https://github.com/Severn-J-Lortie/solarstatus)
 - [A Working CPU Written In Verilog](https://github.com/Severn-J-Lortie/ELEC-374)
 - [A Webscraper + Website for Queen's Students to find Housing](https://github.com/Severn-J-Lortie/QUHouseFinder)
 
